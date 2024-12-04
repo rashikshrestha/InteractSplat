@@ -1,0 +1,2 @@
+# InteractSplat
+Interactive Gaussian Splats
